@@ -1,8 +1,7 @@
 # **Traffic Sign Recognition** 
 
-## Writeup
+## Self driving car engineering Nanodegree at Udacity
 
-### Self driving car engineering Nanodegree at Udacity
 
 ---
 
@@ -159,7 +158,7 @@ Here are the results of the prediction:
 | Speed limit (30km/h)	| Speed limit (30km/h)							| *
 | No vehicles			| Road work										|
 | General caution		| General caution				 				|
-| Ahead only			| Yield											|
+| Ahead only			| Ahead only									|
 | Go straight or left	| Speed limit (50km/h)							| *
 
 
